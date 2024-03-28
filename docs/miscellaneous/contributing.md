@@ -19,7 +19,7 @@ We take our open source community projects and responsibility seriously and hold
 ## Getting started
 
 Contributions to our repositories are made through Issues and Pull Requests (PRs). A few general guidelines that cover both:
-
+f
 - Search for existing Issues and PRs before creating your own.
 - We work hard to makes sure issues are handled in promptly but, depending on the impact, it could take a while to investigate the root cause. A friendly @ mention in the comment thread to the submitter or a contributor can help draw attention if your issue is blocking.
 
